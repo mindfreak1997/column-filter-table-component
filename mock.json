@@ -1,0 +1,39 @@
+
+[
+    {
+      "id": 1,
+      "fullName": "Jenny Chan",
+      "address": "3 waterfoot road",
+      "phoneNumber": "75416564494",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Jessica warren",
+      "address": "4 tall town",
+      "phoneNumber": "9465646449",
+      "email": "jessica.warren@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Frank",
+      "address": "11 lesly road",
+      "phoneNumber": "75454545511",
+      "email": "tony.frank@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "address": "333 miltown manor",
+      "phoneNumber": "84645454111",
+      "email": "jeremy.clark@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Edwards",
+      "address": "99 blue acres",
+      "phoneNumber": "8549446465",
+      "email": "raymon.edwards@email.com"
+    }
+  ]
+  
